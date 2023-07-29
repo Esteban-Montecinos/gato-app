@@ -1,4 +1,4 @@
-export const TURNS = { // turnos
+export const TURNS = {
     X: '😼',
     O: '🐶'
   }
